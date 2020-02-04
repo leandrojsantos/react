@@ -6,13 +6,18 @@ Com esse comportamento podemos ter toda flexibilidade da componentização do Re
 
 Recursos utilizados no desenvolvimento:
 
-Node.Js;
+* Node.Js;
 
-React.Js;
+* React.Js;
 
-Conceito SEO;
+* Conceito SEO;
 
-Next.Js;
+* Next.Js;
+
+>Para iniciar projeto :
+
+    yarn
+    yarn dev
 
 
 
