@@ -1,6 +1,10 @@
-# ReactJs
+## 💻 Sobre o repositório
 
-O React (também denominado React.js ou ReactJS) é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário (frontend) em páginas web. 
+Dedicado a projetos treino e testes sobre react
+ 
+### ReactJs
+
+O [React](https://pt-br.reactjs.org/) (também denominado React.js ou ReactJS) é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário (frontend) em páginas web. 
 É mantido pelo Facebook, Instagram, outras empresas e uma comunidade de desenvolvedores individuais.
 
 
@@ -10,23 +14,26 @@ O React (também denominado React.js ou ReactJS) é uma biblioteca JavaScript de
       3. Propriedade => informacoes que um compnente PAI passa para o componente FILHO
 
 
->Declarativo
+- Declarativo: React faz com que a criação de UIs interativas seja uma tarefa fácil, views simples para cada estado na sua aplicação, e o React irá atualizar e renderizar de forma eficiente apenas os componentes necessários na medida em que os dados mudam. Views declarativas fazem com que seu código seja mais previsível e simples de depurar.
 
-React faz com que a criação de UIs interativas seja uma tarefa fácil, views simples para cada estado na sua aplicação, e o React irá atualizar e renderizar de forma eficiente apenas os componentes necessários na medida em que os dados mudam. Views declarativas fazem com que seu código seja mais previsível e simples de depurar.
+- Baseado em componentes: Crie componentes encapsulados que gerenciam seu próprio estado e então, combine-os para criar UIs complexas. Como a lógica do componente é escrita em JavaScript e não em templates, você pode facilmente passar diversos tipos de dados ao longo da sua aplicação e ainda manter o estado fora do DOM (front-end).
 
->Baseado em componentes
+---
+ 
+## ⚙️ Funcionalidades
+ 
+   A principal funcionalidade deste repositório e para estudos, documentação e projeto simples sobre [React](https://pt-br.reactjs.org/)
 
-Crie componentes encapsulados que gerenciam seu próprio estado e então, combine-os para criar UIs complexas. Como a lógica do componente é escrita em JavaScript e não em templates, você pode facilmente passar diversos tipos de dados ao longo da sua aplicação e ainda manter o estado fora do DOM (front-end).
 
+---
 
-__________________________________________________
+## 🚀 Como executar o projeto
 
-# Start nos projetos
+### Pré-requisitos
 
-Cada pasta e um projeto diferente entao usar o yarn que e gerenciador de bibliotecas (assim como npm para node) yarn tambem e mantido pelo facebook e por isso tem uma melhor preformance com react
-use os comandos :
+Deve ter instalado em sua máquina a seguinte ferramentas:
 
-    yarn
-    yarn start
-
-Alguns projetos tem obs no modo de start por isso readme.md neles
+- uma ide que suporte java script como [VS code](https://code.visualstudio.com/o),
+- navegador como [Chorme](https://www.google.pt/intl/pt-PT/chrome/?brand=CHBD&gclid=CjwKCAjw1ej5BRBhEiwAfHyh1CqpdiJkRowiF7qVChVWvkTImra14_fVqzdcxXeYoznuxbgYMmtS9BoCP4oQAvD_BwE&gclsrc=aw.ds)
+- [Node](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
