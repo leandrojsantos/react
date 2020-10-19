@@ -1,5 +1,5 @@
 <h1 align="center">
-     <a href="#" alt="">Api em next.js</a>
+     <a href="#" alt="">Lista hooks</a>
 </h1>
 
 <h4 align="center">
@@ -21,20 +21,14 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-NextJS - server-side rendering (SSR)
-
-Renderização da aplicação ReactJS para o servidor, isso é possível graças ao NodeJS que permite criarmos os componentes React no back-end e trazê-los prontos ao carregar a tela.
-
-Com esse comportamento podemos ter toda flexibilidade da componentização do ReactJS somados à performance e habilidade de indexação nos motores de busca de uma interface renderizada no back-end aumentando assim o SEO da aplicação. 
+Lista com entrada e saida de dados, estilo to do (para fazer) 
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] api usando next:
-  - [x] link para testar acom todos os repositório da rocket-seat
+- [x] aprender sobre hooks
 
-  Recursos utilizados no desenvolvimento: Node.Js; React.Js; Conceito SEO; Next.Js;
 ---
 
 ## 🎨 Layout
@@ -46,12 +40,6 @@ O layout da aplicação:
   src="./images/1.png" width="400px">
 </p>
 
-<p align="center">
-  <img alt="next-js" title="#next-js" 
-  src="./images/2.png" width="400px">
-</p>
-
-
 ---
 
 ## 🚀 Como executar o projeto
@@ -59,7 +47,7 @@ O layout da aplicação:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/),[React](https://pt-br.reactjs.org/),[Next](https://nextjs.org/)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/),[React](https://reactjs.org/)
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 #### 🎲 Rodando o Projeto
@@ -69,13 +57,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:leandrojsantos/react.git
 
 # Acesse a pasta do projeto no terminal/cmd, vá para a pasta raiz do projeto
-$ cd reactjs/next-js
+$ cd reactjs/list-hooks
 
 # Instale as dependências
 $ npm install
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+$ npm start
 
 # O servidor inciará na porta:3000- acesse http://localhost:3000 
 
@@ -86,8 +74,7 @@ $ npm run dev
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-([React](https://reactjs.org/)  +  [Next](https://nextjs.org/))
-
--   **[isomorphic-fetch](https://www.npmjs.com/package/isomorphic-fetch)**
+* [React](https://reactjs.org/)
+* [VSCode](https://code.visualstudio.com/)
 
 ---
